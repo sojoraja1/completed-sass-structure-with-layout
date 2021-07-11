@@ -1,0 +1,8 @@
+.section {
+    background-color: blue;
+    min-height: calc(100vh - 70px - 70px);
+    position: relative;
+    top: 70px;
+    // overflow-x: hidden;
+    // overflow-y: scroll;
+  }

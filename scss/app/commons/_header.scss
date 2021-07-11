@@ -1,0 +1,11 @@
+.header {
+    background-color: black;
+    min-height: 70px;
+    height: 70px;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    &__menu {
+      min-height: inherit;
+    }
+  }

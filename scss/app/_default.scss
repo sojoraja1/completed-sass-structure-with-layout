@@ -1,0 +1,18 @@
+.l-default{
+    .header{
+     @include sm{
+         background-color: yellow; 
+     }
+     @include lg{
+         background-color: pink;
+     }
+    }
+    .section{
+    
+    }
+    .footer{
+      
+    }
+
+    
+}
